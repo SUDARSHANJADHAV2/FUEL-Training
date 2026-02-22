@@ -1,7 +1,7 @@
 package JDBC;
 import java.sql.*;
 import java.util.*;
-public class PrintTable{
+public class RetriveData{
 
     private static final String url ="jdbc:mysql://localhost:3306/myDB";
     private static final String username="root" ;
